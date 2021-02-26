@@ -1,0 +1,15 @@
+C:\Users\Hp\Desktop\steck-tests\dotnet-vaquinha-tests\src\Vaquinha.Repository\bin\Debug\netcoreapp3.1\Vaquinha.Repository.deps.json
+C:\Users\Hp\Desktop\steck-tests\dotnet-vaquinha-tests\src\Vaquinha.Repository\bin\Debug\netcoreapp3.1\Vaquinha.Repository.runtimeconfig.json
+C:\Users\Hp\Desktop\steck-tests\dotnet-vaquinha-tests\src\Vaquinha.Repository\bin\Debug\netcoreapp3.1\Vaquinha.Repository.runtimeconfig.dev.json
+C:\Users\Hp\Desktop\steck-tests\dotnet-vaquinha-tests\src\Vaquinha.Repository\bin\Debug\netcoreapp3.1\Vaquinha.Repository.dll
+C:\Users\Hp\Desktop\steck-tests\dotnet-vaquinha-tests\src\Vaquinha.Repository\bin\Debug\netcoreapp3.1\Vaquinha.Repository.pdb
+C:\Users\Hp\Desktop\steck-tests\dotnet-vaquinha-tests\src\Vaquinha.Repository\bin\Debug\netcoreapp3.1\Vaquinha.Domain.dll
+C:\Users\Hp\Desktop\steck-tests\dotnet-vaquinha-tests\src\Vaquinha.Repository\bin\Debug\netcoreapp3.1\Vaquinha.Domain.pdb
+C:\Users\Hp\Desktop\steck-tests\dotnet-vaquinha-tests\src\Vaquinha.Repository\obj\Debug\netcoreapp3.1\Vaquinha.Repository.csprojAssemblyReference.cache
+C:\Users\Hp\Desktop\steck-tests\dotnet-vaquinha-tests\src\Vaquinha.Repository\obj\Debug\netcoreapp3.1\Vaquinha.Repository.AssemblyInfoInputs.cache
+C:\Users\Hp\Desktop\steck-tests\dotnet-vaquinha-tests\src\Vaquinha.Repository\obj\Debug\netcoreapp3.1\Vaquinha.Repository.AssemblyInfo.cs
+C:\Users\Hp\Desktop\steck-tests\dotnet-vaquinha-tests\src\Vaquinha.Repository\obj\Debug\netcoreapp3.1\Vaquinha.Repository.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\steck-tests\dotnet-vaquinha-tests\src\Vaquinha.Repository\obj\Debug\netcoreapp3.1\Vaquinha.Repository.csproj.CopyComplete
+C:\Users\Hp\Desktop\steck-tests\dotnet-vaquinha-tests\src\Vaquinha.Repository\obj\Debug\netcoreapp3.1\Vaquinha.Repository.dll
+C:\Users\Hp\Desktop\steck-tests\dotnet-vaquinha-tests\src\Vaquinha.Repository\obj\Debug\netcoreapp3.1\Vaquinha.Repository.pdb
+C:\Users\Hp\Desktop\steck-tests\dotnet-vaquinha-tests\src\Vaquinha.Repository\obj\Debug\netcoreapp3.1\Vaquinha.Repository.genruntimeconfig.cache
